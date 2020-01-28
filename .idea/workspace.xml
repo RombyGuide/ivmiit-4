@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="jsp-examples:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f8946f1-bf5a-4fff-bfe1-2ddd095a05be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../5. DB Example/src/main/java/ru/ivmiit/db/servlets/TestServletCon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBAndJDBC/src/main/java/Servlets/TestServletCon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBAndJDBC/src/main/java/com/guide/database/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBAndJDBC/src/main/java/com/guide/database/img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DBAndJDBC/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataBaseExam/src/main/java/com/devind/database/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JBDC/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JBDC/src/main/java/TestCon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dbexam/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dbexam/src/main/webapp/jsp/addUser.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/Shark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ivmiit/fake/FakeStorage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ivmiit/filters/AuthFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ivmiit/repositories/UsersRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ivmiit/repositories/UsersRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ivmiit/repositories/UsersRepositoryInMemoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ivmiit/repositories/UsersRepositoryInMemoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ivmiit/servlets/HomeServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ivmiit/servlets/LoginServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/ivmiit/servlets/SignUpServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/ivmiit/servlets/SignUpServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../dbexam/src/main/webapp/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/signUp.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/signUp_old.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/jsp/tryOld.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5. DB Example/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../5. DB Example/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5. DB Example/src/main/java/ru/ivmiit/db/dao/CrudDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5. DB Example/src/main/java/ru/ivmiit/db/dao/UsersDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5. DB Example/src/main/java/ru/ivmiit/db/dao/UsersDaoJdbcImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5. DB Example/src/main/java/ru/ivmiit/db/dao/UsersDaoJdbcTemplateImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5. DB Example/src/main/java/ru/ivmiit/db/models/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../5. DB Example/src/main/java/ru/ivmiit/db/models/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5. DB Example/src/main/java/ru/ivmiit/db/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../5. DB Example/src/main/java/ru/ivmiit/db/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../5. DB Example/src/main/java/ru/ivmiit/db/servlets/UsersServletWithDao.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U2CEadYSMEqY6HLhM6slqWj9CB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/_4Prog/java-course-ee-master/test-Projects" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.ivmiit.servlets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TOM" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="TOM" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="jsp-examples:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/jsp_examples_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_jsp-examples_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62229" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="jsp-examples:war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f8946f1-bf5a-4fff-bfe1-2ddd095a05be" name="Default Changelist" comment="" />
+      <created>1574545191842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574545191842</updated>
+      <workItem from="1574545194786" duration="644000" />
+      <workItem from="1574713585419" duration="204000" />
+      <workItem from="1575846234791" duration="944000" />
+      <workItem from="1580144331466" duration="82000" />
+      <workItem from="1580144454783" duration="28000" />
+      <workItem from="1580144521185" duration="35000" />
+      <workItem from="1580144735758" duration="34000" />
+      <workItem from="1580147388690" duration="30000" />
+      <workItem from="1580147542208" duration="26000" />
+      <workItem from="1580148203857" duration="193000" />
+      <workItem from="1580148511648" duration="35000" />
+      <workItem from="1580148758364" duration="13000" />
+      <workItem from="1580148889342" duration="423000" />
+      <workItem from="1580149438991" duration="39000" />
+      <workItem from="1580149596270" duration="30000" />
+      <workItem from="1580225433194" duration="238000" />
+      <workItem from="1580226147547" duration="238000" />
+      <workItem from="1580226404047" duration="1320000" />
+      <workItem from="1580228142347" duration="5741000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580226484712">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="4" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.689@0.0.1280.689" timestamp="1580226484712" />
+    <state x="341" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1580229652169">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="341" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1580229652169" />
+    <state x="279" y="101" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1575847166127">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="279" y="101" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.689@0.0.1280.689" timestamp="1575847166127" />
+    <state x="327" y="101" key="FileChooserDialogImpl" timestamp="1580144412519">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="327" y="101" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1580144412519" />
+    <state width="692" height="162" key="GridCell.Tab.0.bottom" timestamp="1580237665954">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="692" height="162" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1580237665954" />
+    <state width="692" height="162" key="GridCell.Tab.0.center" timestamp="1580237665939">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="692" height="162" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1580237665939" />
+    <state width="692" height="162" key="GridCell.Tab.0.left" timestamp="1580237665939">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="692" height="162" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1580237665939" />
+    <state width="692" height="162" key="GridCell.Tab.0.right" timestamp="1580237665954">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="692" height="162" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1580237665954" />
+    <state width="692" height="162" key="GridCell.Tab.1.bottom" timestamp="1580237665954">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="692" height="162" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1580237665954" />
+    <state width="692" height="162" key="GridCell.Tab.1.center" timestamp="1580237665954">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="692" height="162" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1580237665954" />
+    <state width="692" height="162" key="GridCell.Tab.1.left" timestamp="1580237665954">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="692" height="162" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1580237665954" />
+    <state width="692" height="162" key="GridCell.Tab.1.right" timestamp="1580237665954">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="692" height="162" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1580237665954" />
+    <state width="692" height="162" key="GridCell.Tab.2.bottom" timestamp="1580237665954">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="692" height="162" key="GridCell.Tab.2.bottom/0.0.1280.689@0.0.1280.689" timestamp="1580237665954" />
+    <state width="692" height="162" key="GridCell.Tab.2.center" timestamp="1580237665954">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="692" height="162" key="GridCell.Tab.2.center/0.0.1280.689@0.0.1280.689" timestamp="1580237665954" />
+    <state width="692" height="162" key="GridCell.Tab.2.left" timestamp="1580237665954">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="692" height="162" key="GridCell.Tab.2.left/0.0.1280.689@0.0.1280.689" timestamp="1580237665954" />
+    <state width="692" height="162" key="GridCell.Tab.2.right" timestamp="1580237665954">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="692" height="162" key="GridCell.Tab.2.right/0.0.1280.689@0.0.1280.689" timestamp="1580237665954" />
+    <state x="32" y="0" key="SettingsEditor" timestamp="1580226208354">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="32" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1580226208354" />
+    <state x="1" y="0" key="new project wizard" timestamp="1580225672109">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="1" y="0" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1580225672109" />
+  </component>
+</project>
