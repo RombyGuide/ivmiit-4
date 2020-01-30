@@ -3,10 +3,10 @@ package ru.ivmiit.models;
 import java.time.LocalDate;
 
 /**
- * 14.03.2018
- * User
+ * 30.01.2020
+ * Blino
  *
- * @author Sidikov Marsel (First Software Engineering Platform)
+ * @author RombyGuIde (My Home Software Engineering Platform)
  * @version v1.0
  */
 public class User {

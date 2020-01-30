@@ -16,12 +16,12 @@ import java.time.LocalDate;
 import java.util.List;
 
 /**
- * 14.03.2018
+ * 30.01.2020
  * SignUpServlet
  *
  * Сервлет для регистрации
  *
- * @author Sidikov Marsel (First Software Engineering Platform)
+ * @author RombyGuIde (My Home Software Engineering Platform)
  * @version v1.0
  */
 @WebServlet("/signUp")
